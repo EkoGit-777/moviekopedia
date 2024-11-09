@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
 
 ![logo](https://github.com/user-attachments/assets/9c9dd5ca-f366-41ea-83ae-42a8f880dd3e)
 
-</p>
+</div>
 
 ## Docs
 
