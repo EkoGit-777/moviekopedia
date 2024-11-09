@@ -1,5 +1,7 @@
 <p align="center">
 
+![logo](https://github.com/user-attachments/assets/9c9dd5ca-f366-41ea-83ae-42a8f880dd3e)
+
 </p>
 
 ## Docs
@@ -28,6 +30,12 @@ I was inspired to make this project because I was once ask to make similar proje
 
 ### Home
 
+![home](https://github.com/user-attachments/assets/846c2d6f-c412-410e-b355-1112aae0c61a)
+
 ### Search
 
+![search](https://github.com/user-attachments/assets/eac01753-fcaf-4856-a638-2d72d4cab6f8)
+
 ### Detail
+
+![detail](https://github.com/user-attachments/assets/50b9e1cb-6bed-47c5-a418-b0dc7f11ec1f)
